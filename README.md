@@ -2,7 +2,7 @@
 Code relating to OIAGJ project spreadsheets
 
 ## fixPallet
-[``fixPallet.vba``](https://github.com/rkooyenga) is a VBA module to fix the sort on a private client inventory spreadsheet.
+[``fixPallet.vba``](https://github.com/rkooyenga/oiagj-sheets/blob/main/fixPallet.vba) is a VBA module to fix the sort on a private client inventory spreadsheet.
 
 #### Challenge
 
