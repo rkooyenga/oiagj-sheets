@@ -18,9 +18,9 @@ Because the pallet identifiers can't be changed system wide, it seemed the easie
 
 Still a work in progress as different product ranges have different sort challenges and rules. Once I figure them all out from day to day production use I can clean up the logic. For now though the core issue is solved for +99% of relevant daily tasks with no serious unexpected result or bugs. Added some minor formatting / aesthetic stuff too. 
 
-*Cannot show the daily use examples, input data, screenshots, etc. in any detail for company secret / non-disclosure reasons.*
+> Note: Cannot show the daily use examples, input data, screenshots, etc. in any detail for company secret / non-disclosure reasons.
 
-I'm beyond rusty on Excel. To be honest I've been on Linux so long I haven't used Windows or Microsoft stuff in over a decade so this is my first time writing something in VBA probably since before John Frusciante last quit the Red Hot Chili Peppers 😮
+> Aside: I'm beyond rusty on Excel. To be honest I've been on Linux so long I haven't used Windows or Microsoft stuff in over a decade so this is my first time writing something in VBA probably since before John Frusciante last quit the Red Hot Chili Peppers 😮
 
 by [**Ray Kooyenga**](https://github.com/rkooyenga)
  
